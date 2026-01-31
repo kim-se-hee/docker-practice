@@ -35,3 +35,6 @@ curl http://localhost:8080/health
 | Method | Path | Description |
 |--------|------|-------------|
 | GET | /health | 헬스 체크 (OK 반환) |
+
+## 실행 결과 스크린샷
+![스크린샷](https://github.com/user-attachments/assets/90197934-5db8-4f0b-9217-c6ded4b60851)
